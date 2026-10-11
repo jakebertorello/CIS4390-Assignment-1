@@ -3,3 +3,6 @@ node_modules/
 __pycache__/
 dist/
 .env
+*.jsonl
+.DS_Store
+.ipynb_checkpoints/
